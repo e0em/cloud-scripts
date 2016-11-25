@@ -1,0 +1,13 @@
+i-54582f96,54.215.202.193,172.31.13.190,c4.large,us-west-1,running,MailServer-California,ec2-54-215-202-193.us-west-1.compute.amazonaws.com,us-west-1b,x86_64
+i-2711d729,54.68.30.160,172.31.2.61,t2.medium,us-west-2,running,health166 - 1223,ec2-54-68-30-160.us-west-2.compute.amazonaws.com,us-west-2c,x86_64
+i-9a3a8f95,54.68.69.196,172.31.13.97,t2.micro,us-west-2,running,FTPserver,ec2-54-68-69-196.us-west-2.compute.amazonaws.com,us-west-2c,x86_64
+i-c8fa8301,54.191.19.72,172.31.11.136,m3.medium,us-west-2,running,WebServer,ec2-54-191-19-72.us-west-2.compute.amazonaws.com,us-west-2c,x86_64
+i-68988463,54.68.145.62,172.31.47.133,t2.medium,us-west-2,running,boardband_WebServer,ec2-54-68-145-62.us-west-2.compute.amazonaws.com,us-west-2a,x86_64
+i-891bde40,52.26.115.135,172.31.22.196,t2.micro,us-west-2,running,WebServer,ec2-52-26-115-135.us-west-2.compute.amazonaws.com,us-west-2b,x86_64
+i-23dda6e6,54.191.7.108,172.31.46.231,t2.micro,us-west-2,running,MailServer,ec2-54-191-7-108.us-west-2.compute.amazonaws.com,us-west-2a,x86_64
+i-4e9a6c43,52.11.122.39,172.31.34.115,t2.micro,us-west-2,running,WebServer,ec2-52-11-122-39.us-west-2.compute.amazonaws.com,us-west-2a,x86_64
+i-ae951b75,52.25.42.75,172.31.3.72,c4.xlarge,us-west-2,running,WebServer,ec2-52-25-42-75.us-west-2.compute.amazonaws.com,us-west-2c,x86_64
+i-43fa444c,54.69.31.73,172.31.3.153,t2.small,us-west-2,running,softcam,ec2-54-69-31-73.us-west-2.compute.amazonaws.com,us-west-2c,x86_64
+i-f7f8ac02,54.64.102.165,172.31.23.64,t2.medium,ap-northeast-1,running,nodejs,ec2-54-64-102-165.ap-northeast-1.compute.amazonaws.com,ap-northeast-1c,x86_64
+i-0437d9cb,54.254.222.178,172.31.20.189,t2.micro,ap-southeast-1,running,MailServer-singapore,ec2-54-254-222-178.ap-southeast-1.compute.amazonaws.com,ap-southeast-1a,x86_64
+i-fc7df130,52.76.91.150,172.31.29.29,t2.micro,ap-southeast-1,running,MailServer-singapore,ec2-52-76-91-150.ap-southeast-1.compute.amazonaws.com,ap-southeast-1a,x86_64
